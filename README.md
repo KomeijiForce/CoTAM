@@ -3,7 +3,8 @@
 ![CoTAM](https://github.com/KomeijiForce/CoTAM/blob/main/cotam.png)
 
 ## :wrench:Manipulate Your Texts!
-(Currently only SST-2 example is available, we will upload a unified version later) \\
+(Currently only SST-2 example is available, we will upload a unified version later)
+
 Generate (You have to put your OpenAI API key in constant.py)
 ```
 python cotam.py
