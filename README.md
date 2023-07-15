@@ -16,7 +16,7 @@ Nearest Centroid (NC)
 ```
 python nc.py
 ```
-K-Nearest Neighbors
+K-Nearest Neighbors (KNN)
 ```
 python knn.py
 ```
