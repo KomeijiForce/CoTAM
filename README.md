@@ -1,5 +1,6 @@
 ## Chain-of-Thoughts Attribute Manipulation (CoTAM)
 **CoTAM** is an LLM-based framework that generates efficient training data for smaller language models.
+![CoTAM](https://github.com/KomeijiForce/CoTAM/blob/main/cotam.pdf)
 
 # Run the code!
 (Currently only SST-2 example is available, we will upload a unified version later) \\
