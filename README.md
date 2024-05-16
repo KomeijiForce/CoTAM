@@ -2,6 +2,8 @@
 **CoTAM** ([arxiv.org/abs/2307.07099](https://arxiv.org/abs/2307.07099)) is an LLM-based framework that generates efficient training data for smaller language models.
 ![CoTAM](https://github.com/KomeijiForce/CoTAM/blob/main/cotam.png)
 
+[News] CoTAM is accepted to the Findings of ACL2024!
+
 ## :wrench:Manipulate Your Texts!
 (Currently only SST-2 example is available, we will upload a unified version later)
 
